@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="Jars/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="Jars/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="Jars/fr.opensagres.xdocreport.itext.extension-1.0.6.jar"/>
+	<classpathentry kind="lib" path="Jars/itext-4.2.0.jar"/>
+	<classpathentry kind="lib" path="Jars/itextpdf-5.5.6.jar"/>
+	<classpathentry kind="lib" path="Jars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="Jars/org.apache.poi.xwpf.converter.core-1.0.6.jar"/>
+	<classpathentry kind="lib" path="Jars/org.apache.poi.xwpf.converter.pdf-1.0.6.jar"/>
+	<classpathentry kind="lib" path="Jars/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="Jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="Jars/jnativehook-2.1.0.jar" sourcepath="/Users/felipemira/.m2/repository/com/1stleg/jnativehook/2.1.0/jnativehook-2.1.0-sources.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-ooxml-schemas-3.16-beta2.jar"/>
+	<classpathentry kind="lib" path="Jars/poi-scratchpad-3.16-beta2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
